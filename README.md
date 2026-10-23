@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Raihri/raihri/29d1935bc72c5fb14b04d2911f3552af94eab7af/assets/duck-banner.svg" alt="Raima Hridika — duck illustration with an animated knife and blinking, moving eyes" />
+<img width="100%" src="https://raw.githubusercontent.com/Raihri/raihri/f5a48d334fa23904c7979a787ecc3bfec05e903c/assets/duck-banner.svg" alt="Raima Hridika — duck illustration with an side-to-side wobble, a fixed knife and blinking, moving eyes" />
 
 [![GitHub](https://img.shields.io/badge/@Raihri-242529?style=for-the-badge&logo=github&logoColor=F8ED78)](https://github.com/Raihri)
 [![Email](https://img.shields.io/badge/Email-C3AC29?style=for-the-badge&logo=gmail&logoColor=17181B)](mailto:raimahridika2@gmail.com)
