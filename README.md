@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Raihri/raihri/f5a48d334fa23904c7979a787ecc3bfec05e903c/assets/duck-banner.svg" alt="Raima Hridika — duck illustration with an side-to-side wobble, a fixed knife and blinking, moving eyes" />
+<img width="100%" src="assets/duck-step.svg" alt="Raima Hridika — duck illustration with an alternating steps, a fixed knife and blinking, moving eyes" />
 
 [![GitHub](https://img.shields.io/badge/@Raihri-242529?style=for-the-badge&logo=github&logoColor=F8ED78)](https://github.com/Raihri)
 [![Email](https://img.shields.io/badge/Email-C3AC29?style=for-the-badge&logo=gmail&logoColor=17181B)](mailto:raimahridika2@gmail.com)
@@ -20,27 +20,44 @@ I share academic projects, hackathon work, coursework, and experiments here.
 <tr>
 <td width="50%" valign="top">
 
+<sub>01 &nbsp; / &nbsp; PROJECT</sub>
+
 ### DUCONQUER
 
-[View repository →](https://github.com/farhanlabibahan/DU_Conquer)
+<a href="https://github.com/farhanlabibahan/DU_Conquer"><img alt="View DUCONQUER source" src="https://img.shields.io/badge/VIEW_SOURCE-242529?style=for-the-badge&amp;logo=github&amp;logoColor=F8ED78" /></a>
 
 </td>
 <td width="50%" valign="top">
 
+<sub>02 &nbsp; / &nbsp; PROJECT</sub>
+
 ### CLOUDCARE
 
-[View repository →](https://github.com/Raihri/CLOUDCARE)
+<a href="https://github.com/Raihri/CLOUDCARE"><img alt="View CLOUDCARE source" src="https://img.shields.io/badge/VIEW_SOURCE-242529?style=for-the-badge&amp;logo=github&amp;logoColor=F8ED78" /></a>
 
 </td>
 </tr>
 </table>
 
-[All public repositories →](https://github.com/Raihri?tab=repositories&type=public)
+<p align="right"><a href="https://github.com/Raihri?tab=repositories&amp;type=public"><b>Browse all repositories ↗</b></a></p>
+
+<br />
 
 ## Contribution trail
 
 [![Yellow contribution grid with an animated duck](assets/duck-contributions.svg)](https://github.com/Raihri?tab=overview)
 
-## Contact
+<br />
 
-[raimahridika2@gmail.com](mailto:raimahridika2@gmail.com)
+---
+
+<div align="center">
+
+### Get in touch
+
+[![Email Raima](https://img.shields.io/badge/EMAIL_RAIMA-F8ED78?style=for-the-badge&logo=gmail&logoColor=242529)](mailto:raimahridika2@gmail.com)
+[![GitHub profile](https://img.shields.io/badge/GITHUB-242529?style=for-the-badge&logo=github&logoColor=F8ED78)](https://github.com/Raihri)
+
+<sub>[raimahridika2@gmail.com](mailto:raimahridika2@gmail.com)</sub>
+
+</div>
