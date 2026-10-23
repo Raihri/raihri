@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/jewel-banner.svg?v=duck" alt="Raima Hridika — animated yellow duck on bug patrol, with sparkling eyes and a blinking terminal" />
+<img width="100%" src="assets/duck-banner.svg" alt="Raima Hridika — animated yellow duck on bug patrol, with sparkling eyes and a blinking terminal" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1100&color=C3AC29&center=true&vCenter=true&width=650&lines=Peace+was+never+an+option.+Clean+code+is.;Currently+negotiating+with+a+semicolon.;Powered+by+curiosity+and+quack+energy." alt="Animated coding jokes: Peace was never an option. Clean code is. Currently negotiating with a semicolon." />
 
