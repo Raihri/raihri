@@ -14,12 +14,8 @@ I’m currently in my third year, first semester of Computer Science and Enginee
 
 | Repository | Explore |
 |---|---|
-| CoinCaddy | [View project](https://github.com/Raihri/CoinCaddy) |
-| AgriSense | [View project](https://github.com/Raihri/Delulu-Developers_AgriSense) |
+|DUCONQUER  | [View project](https://github.com/farhanlabibahan/DU_Conquer) |
 | CLOUDCARE | [View project](https://github.com/Raihri/CLOUDCARE) |
-| ICT Fest Hackathon Preliminary | [View project](https://github.com/Raihri/ICT_Fest_Hackathon_Preliminary) |
-| SUST Online Hackathon | [View project](https://github.com/Raihri/sust-online-hackathon) |
-| Assembly Lab | [View coursework](https://github.com/Raihri/assemblylab) |
 
 ## 📫 Get in Touch
 
