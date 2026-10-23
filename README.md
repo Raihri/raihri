@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/duck-step.svg" alt="Raima Hridika — duck illustration with an alternating steps, a fixed knife and blinking, moving eyes" />
+<img width="100%" src="assets/duck-peek.svg" alt="Raima Hridika — duck illustration with an alternating steps, a fixed knife and blinking, moving eyes" />
 
 [![GitHub](https://img.shields.io/badge/@Raihri-242529?style=for-the-badge&logo=github&logoColor=F8ED78)](https://github.com/Raihri)
 [![Email](https://img.shields.io/badge/Email-C3AC29?style=for-the-badge&logo=gmail&logoColor=17181B)](mailto:raimahridika2@gmail.com)
@@ -45,7 +45,7 @@ I share academic projects, hackathon work, coursework, and experiments here.
 
 ## Contribution trail
 
-[![Yellow contribution grid with an animated duck](assets/duck-contributions.svg)](https://github.com/Raihri?tab=overview)
+[![Yellow contribution grid with an animated duck](assets/duck-walk-trail.svg)](https://github.com/Raihri?tab=overview)
 
 <br />
 
