@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Raima Hridika 👋
 
-<!--
-**Raihri/raihri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student at the University of Dhaka**
 
-Here are some ideas to get you started:
+I’m currently in my third year, first semester of Computer Science and Engineering. Here, I share my projects, hackathon work, and coursework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- Studying **Computer Science and Engineering** at the **University of Dhaka**
+- Building experience through academic and collaborative projects
+- Sharing my progress as **[@Raihri](https://github.com/Raihri)**
+
+## 🛠️ Projects & Repositories
+
+| Repository | Explore |
+|---|---|
+| CoinCaddy | [View project](https://github.com/Raihri/CoinCaddy) |
+| AgriSense | [View project](https://github.com/Raihri/Delulu-Developers_AgriSense) |
+| CLOUDCARE | [View project](https://github.com/Raihri/CLOUDCARE) |
+| ICT Fest Hackathon Preliminary | [View project](https://github.com/Raihri/ICT_Fest_Hackathon_Preliminary) |
+| SUST Online Hackathon | [View project](https://github.com/Raihri/sust-online-hackathon) |
+| Assembly Lab | [View coursework](https://github.com/Raihri/assemblylab) |
+
+## 📫 Get in Touch
+
+**Email:** [raimahridika2@gmail.com](mailto:raimahridika2@gmail.com)
+
+[Explore all my public repositories →](https://github.com/Raihri?tab=repositories&type=public)
