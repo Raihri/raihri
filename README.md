@@ -1,20 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:8b5cf6,100:ec4899&height=220&section=header&text=Raima%20Hridika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Keep%20learning.&descSize=18&descAlignY=60" alt="Raima Hridika — Code. Create. Keep learning." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:e0218a&height=220&section=header&text=Raima%20Hridika&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Dream.%20Code.%20Sparkle.&descSize=18&descAlignY=60" alt="Raima Hridika — Dream. Code. Sparkle." />
 
 ### ✦ CSE student · University of Dhaka ✦
 
-A little curiosity. A lot of learning. One project at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=E0218A&center=true&vCenter=true&width=600&lines=Hi+Barbie!+I%27m+Raima.;Dreaming+big.+Building+with+code.;A+little+pink.+A+lot+of+possibility." alt="Animated introduction: Hi Barbie! I’m Raima. Dreaming big. Building with code." />
 
-[![GitHub](https://img.shields.io/badge/@Raihri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri)
-[![Say hello](https://img.shields.io/badge/Say_hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
-[![Explore projects](https://img.shields.io/badge/Explore_projects-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri?tab=repositories&type=public)
+🎀 &nbsp; Welcome to my coding dreamhouse &nbsp; 🎀
+
+[![GitHub](https://img.shields.io/badge/@Raihri-C71585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri)
+[![Say hello](https://img.shields.io/badge/Say_hello-E0218A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
+[![Explore projects](https://img.shields.io/badge/Explore_projects-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri?tab=repositories&type=public)
 
 </div>
 
 <br />
 
-## 🌙 Behind the code
+## 🎀 Meet the girl behind the code
 
 Hello! I'm **Raima**, a Computer Science and Engineering student at the **University of Dhaka**, currently in **3rd Year, 1st Semester**. This is my corner of GitHub — a collection of projects, hackathon work, and lessons learned along the way.
 
@@ -22,7 +24,7 @@ Hello! I'm **Raima**, a Computer Science and Engineering student at the **Univer
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 THE CLASSROOM
+#### 🎓 CAMPUS DIARIES
 **University of Dhaka**  
 Computer Science & Engineering  
 3rd Year · 1st Semester
@@ -30,7 +32,7 @@ Computer Science & Engineering
 </td>
 <td width="50%" valign="top">
 
-#### ✨ THE WORKSPACE
+#### 💖 THE CODING DREAMHOUSE
 Academic projects & coursework  
 Hackathon ideas & collaboration  
 Learning through hands-on work
@@ -41,7 +43,7 @@ Learning through hands-on work
 
 <br />
 
-## 🚀 In the spotlight
+## 💅 The project collection
 
 <table>
 <tr>
@@ -49,14 +51,14 @@ Learning through hands-on work
 
 ### 🧩 DUCONQUER
 
-<a href="https://github.com/farhanlabibahan/DU_Conquer"><img src="https://img.shields.io/badge/Explore_DUCONQUER-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore DUCONQUER" /></a>
+<a href="https://github.com/farhanlabibahan/DU_Conquer"><img src="https://img.shields.io/badge/Explore_DUCONQUER-E0218A?style=for-the-badge&logo=github&logoColor=white" alt="Explore DUCONQUER" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 ### ☁️ CLOUDCARE
 
-<a href="https://github.com/Raihri/CLOUDCARE"><img src="https://img.shields.io/badge/Explore_CLOUDCARE-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore CLOUDCARE" /></a>
+<a href="https://github.com/Raihri/CLOUDCARE"><img src="https://img.shields.io/badge/Explore_CLOUDCARE-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore CLOUDCARE" /></a>
 
 </td>
 </tr>
@@ -70,8 +72,8 @@ Learning through hands-on work
 
 <div align="center">
 
-✦ &nbsp; **Thanks for stopping by my little corner of GitHub.** &nbsp; ✦
+🎀 &nbsp; **Big dreams. Pink details. Endless possibilities.** &nbsp; 🎀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:8b5cf6,100:ec4899&height=100&section=footer" alt="Purple and pink wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:e0218a&height=100&section=footer" alt="Barbie pink wave footer" />
 
 </div>
