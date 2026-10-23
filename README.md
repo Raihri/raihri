@@ -37,6 +37,10 @@ I share academic projects, hackathon work, coursework, and experiments here.
 
 [All public repositories →](https://github.com/Raihri?tab=repositories&type=public)
 
+## Contribution trail
+
+[![Yellow contribution grid with an animated duck](assets/duck-contributions.svg)](https://github.com/Raihri?tab=overview)
+
 ## Contact
 
 [raimahridika2@gmail.com](mailto:raimahridika2@gmail.com)
