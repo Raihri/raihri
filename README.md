@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:e0218a&height=220&section=header&text=Raima%20Hridika&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Dream.%20Code.%20Sparkle.&descSize=18&descAlignY=60" alt="Raima Hridika — Dream. Code. Sparkle." />
+<img width="100%" src="assets/jewel-banner.svg" alt="Raima Hridika — animated pink diamonds, champagne gold and twinkling stars" />
 
-### ✦ CSE student · University of Dhaka ✦
+<sub>◆ &nbsp; C U R I O S I T Y &nbsp; · &nbsp; C O D E &nbsp; · &nbsp; C R A F T &nbsp; ◆</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=E0218A&center=true&vCenter=true&width=600&lines=Hi+Barbie!+I%27m+Raima.;Dreaming+big.+Building+with+code.;A+little+pink.+A+lot+of+possibility." alt="Animated introduction: Hi Barbie! I’m Raima. Dreaming big. Building with code." />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=2800&pause=1000&color=B76E79&center=true&vCenter=true&width=600&lines=Where+curiosity+meets+craft.;Dream+in+pink.+Build+with+purpose.;A+little+sparkle.+Endless+possibility." alt="Animated introduction: Where curiosity meets craft. Dream in pink. Build with purpose." />
 
-🎀 &nbsp; Welcome to my coding dreamhouse &nbsp; 🎀
+<sub>THE PERSONAL COLLECTION OF RAIMA HRIDIKA</sub>
 
-[![GitHub](https://img.shields.io/badge/@Raihri-C71585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri)
-[![Say hello](https://img.shields.io/badge/Say_hello-E0218A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
-[![Explore projects](https://img.shields.io/badge/Explore_projects-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri?tab=repositories&type=public)
+[![GitHub](https://img.shields.io/badge/@Raihri-521536?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri)
+[![Say hello](https://img.shields.io/badge/Say_hello-9F426A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
+[![Explore projects](https://img.shields.io/badge/Explore_projects-B28A57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri?tab=repositories&type=public)
 
 </div>
 
 <br />
 
-## 🎀 Meet the girl behind the code
+## Ⅰ &nbsp; Behind the sparkle
 
 Hello! I'm **Raima**, a Computer Science and Engineering student at the **University of Dhaka**, currently in **3rd Year, 1st Semester**. This is my corner of GitHub — a collection of projects, hackathon work, and lessons learned along the way.
 
@@ -24,7 +24,7 @@ Hello! I'm **Raima**, a Computer Science and Engineering student at the **Univer
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 CAMPUS DIARIES
+#### ◇ EDUCATION
 **University of Dhaka**  
 Computer Science & Engineering  
 3rd Year · 1st Semester
@@ -32,7 +32,7 @@ Computer Science & Engineering
 </td>
 <td width="50%" valign="top">
 
-#### 💖 THE CODING DREAMHOUSE
+#### ◇ THE ATELIER
 Academic projects & coursework  
 Hackathon ideas & collaboration  
 Learning through hands-on work
@@ -43,22 +43,26 @@ Learning through hands-on work
 
 <br />
 
-## 💅 The project collection
+## Ⅱ &nbsp; The signature collection
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🧩 DUCONQUER
+<sub>01 · THE COLLECTION</sub>
 
-<a href="https://github.com/farhanlabibahan/DU_Conquer"><img src="https://img.shields.io/badge/Explore_DUCONQUER-E0218A?style=for-the-badge&logo=github&logoColor=white" alt="Explore DUCONQUER" /></a>
+### ◇ DUCONQUER
+
+<a href="https://github.com/farhanlabibahan/DU_Conquer"><img src="https://img.shields.io/badge/Explore_DUCONQUER-9F426A?style=for-the-badge&logo=github&logoColor=white" alt="Explore DUCONQUER" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### ☁️ CLOUDCARE
+<sub>02 · THE COLLECTION</sub>
 
-<a href="https://github.com/Raihri/CLOUDCARE"><img src="https://img.shields.io/badge/Explore_CLOUDCARE-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore CLOUDCARE" /></a>
+### ◇ CLOUDCARE
+
+<a href="https://github.com/Raihri/CLOUDCARE"><img src="https://img.shields.io/badge/Explore_CLOUDCARE-B28A57?style=for-the-badge&logo=github&logoColor=white" alt="Explore CLOUDCARE" /></a>
 
 </td>
 </tr>
@@ -72,8 +76,8 @@ Learning through hands-on work
 
 <div align="center">
 
-🎀 &nbsp; **Big dreams. Pink details. Endless possibilities.** &nbsp; 🎀
+◆ &nbsp; **Thoughtfully made. Always becoming.** &nbsp; ◆
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:e0218a&height=100&section=footer" alt="Barbie pink wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:521536,50:9f426a,100:b28a57&height=3" alt="Rose gold divider" />
 
 </div>
