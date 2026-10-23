@@ -1,59 +1,77 @@
 <div align="center">
 
-# Hi, I'm Raima Hridika 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:8b5cf6,100:ec4899&height=220&section=header&text=Raima%20Hridika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Keep%20learning.&descSize=18&descAlignY=60" alt="Raima Hridika — Code. Create. Keep learning." />
 
-### Computer Science & Engineering · University of Dhaka
+### ✦ CSE student · University of Dhaka ✦
 
-Learning through code, coursework, and collaboration.
+A little curiosity. A lot of learning. One project at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Raihri-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Raihri)
-[![Email](https://img.shields.io/badge/Email-Let%27s%20connect-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
+[![GitHub](https://img.shields.io/badge/@Raihri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri)
+[![Say hello](https://img.shields.io/badge/Say_hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimahridika2@gmail.com)
+[![Explore projects](https://img.shields.io/badge/Explore_projects-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihri?tab=repositories&type=public)
 
 </div>
 
----
+<br />
 
-## A little about me
+## 🌙 Behind the code
 
-I'm a **Computer Science and Engineering student at the University of Dhaka**, currently in **3rd Year, 1st Semester**. My GitHub brings together the things I build and learn through academic projects, hackathons, and collaboration.
-
-🎓 **Education** · University of Dhaka, CSE  
-💻 **On this GitHub** · Projects, hackathon work, and coursework  
-🌱 **My journey** · Learning by building, one project at a time
-
-## Selected projects
+Hello! I'm **Raima**, a Computer Science and Engineering student at the **University of Dhaka**, currently in **3rd Year, 1st Semester**. This is my corner of GitHub — a collection of projects, hackathon work, and lessons learned along the way.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 DUCONQUER
-
-[Explore the repository →](https://github.com/farhanlabibahan/DU_Conquer)
+#### 🎓 THE CLASSROOM
+**University of Dhaka**  
+Computer Science & Engineering  
+3rd Year · 1st Semester
 
 </td>
 <td width="50%" valign="top">
 
+#### ✨ THE WORKSPACE
+Academic projects & coursework  
+Hackathon ideas & collaboration  
+Learning through hands-on work
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🚀 In the spotlight
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🧩 DUCONQUER
+
+<a href="https://github.com/farhanlabibahan/DU_Conquer"><img src="https://img.shields.io/badge/Explore_DUCONQUER-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore DUCONQUER" /></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
 ### ☁️ CLOUDCARE
 
-[Explore the repository →](https://github.com/Raihri/CLOUDCARE)
+<a href="https://github.com/Raihri/CLOUDCARE"><img src="https://img.shields.io/badge/Explore_CLOUDCARE-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore CLOUDCARE" /></a>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Raihri?tab=repositories&type=public"><b>Browse all my public repositories →</b></a>
+<a href="https://github.com/Raihri?tab=repositories&type=public"><b>See what else I've been building ↗</b></a>
 </p>
 
----
+<br />
 
 <div align="center">
 
-### Let's connect
+✦ &nbsp; **Thanks for stopping by my little corner of GitHub.** &nbsp; ✦
 
-Have a project or an idea to share? Say hello.
-
-**[raimahridika2@gmail.com](mailto:raimahridika2@gmail.com)**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:8b5cf6,100:ec4899&height=100&section=footer" alt="Purple and pink wave footer" />
 
 </div>
